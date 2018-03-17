@@ -1,0 +1,7 @@
+//this is void
+functionsAddNumber(){
+	var numberOne;
+	var numberTwo;
+	var sum;
+}
+
